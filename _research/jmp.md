@@ -10,5 +10,6 @@ links:
 
 order_number: 1
 type: "Working Papers"
+robots: "noindex, nofollow"
 ---
 
