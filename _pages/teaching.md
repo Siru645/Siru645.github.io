@@ -4,15 +4,18 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Instructor
+
+### Georgia State University
+- **Spring 2024** — Principles of Macroeconomics
+- **Fall 2024** — Mathematical Economics
 
 ## Teaching Assistant
 
-### University of Southern California
-- **2025** · Econ 521 — International Macroeconomics and Financial Policy *(Master)*
-- **2025** · Econ 571 — Economics of Digital Platforms *(Master)*
-- **2024** · Econ 205 — Principles of Macroeconomics *(Undergraduate)*
-- **2023** · Econ 602 — Macroeconomic Theory I *(PhD)*
-- **2021, 2022** · Econ 501 — Macroeconomic Analysis and Policy *(Master)*
+### Georgia State University
+- **Spring 2025** — Microeconomics II (PhD)
+- **Fall 2024** — Global Economics (Undergraduate)
+- **Spring 2024, Fall 2023** — Applied Statistics and Econometrics (Master)
 
-### University of Wisconsin–Madison
-- **2019** · Econ 475 — Economic Growth *(Undergraduate)*
+### Spelman College
+- **Spring 2023, Fall 2022, Fall 2021** — Intermediate Microeconomics (Undergraduate)

@@ -9,7 +9,7 @@ A simple sitemap of key pages:
 - [Home]({{ "/" | relative_url }})
 - [Research]({{ "/research/" | relative_url }})
 - [Teaching]({{ "/teaching/" | relative_url }})
-- [CV]({{ "/cv/" | relative_url }})
+- [CV/Resume]({{ "/cv/" | relative_url }})
 
 <!--
 

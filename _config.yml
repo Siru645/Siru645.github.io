@@ -9,28 +9,28 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zili Yang"  
+title                    : "Siru Liu"  
   # used in the title tag and as heading on the home page"
 title_separator          : "-"
-name                     : &name "Zili Yang"
+name                     : &name "Siru Liu"
 description              : &description "personal description"
-url                      : https://ZiliGit.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://SiruLiu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZiliGit/ZiliGit.github.io"
+repository               : "Siru645/SiruLiu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zili_yang_4.jpg"
-  name             : "Zili Yang" # used in the author profile section and as the default author for posts
-  pronouns         : # example: "she/her"  
+  avatar           : "20251114-01.jpg"
+  name             : "Siru Liu" # used in the author profile section and as the default author for posts
+  pronouns         : "Si-roo Lyoo" # example: "she/her"  
   bio              : "Ph.D Candidate in Economics"
-  location         : "Los Angeles"
-  employer         : "University of Southern California"
+  location         : "Atlanta"
+  employer         : "Georgia State University"
   uri              : # URL
-  email            : "ziliyang@usc.edu" 
+  email            : "siruliu456@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : zili-yang-ba833a1a8/
+  linkedin         : siruliu456
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
